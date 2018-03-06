@@ -1,6 +1,4 @@
-package com.brauproject.task
-
-import com.brauproject.skills.Skill
+package com.brauproject.core
 
 case class Task(title: String,
                 text: String,
